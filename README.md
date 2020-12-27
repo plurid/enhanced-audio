@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="https://raw.githubusercontent.com/plurid/enhanced-audio/master/about/assets/identity/enhanced-audio-logo.png"
+        src="https://raw.githubusercontent.com/plurid/enhanced-audio/master/about/identity/enhanced-audio-logo.png"
         height="250px"
     >
     <br />
